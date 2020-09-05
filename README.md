@@ -1,4 +1,4 @@
-# musicapp
+# whoola
 
 A new Flutter project.
 
